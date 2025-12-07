@@ -17,7 +17,7 @@ Flutter • React • HTML • CSS
 **Tools & Platforms**  
 Firebase • MySQL • MongoDB • Git/GitHub  
 Apache Tomcat • Maven • NodeJS  
-Figma • Photoshop • Canva  
+Figma • Photoshop • Canva •WordPress •Cisco
 
 ---
 
