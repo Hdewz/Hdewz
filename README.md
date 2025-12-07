@@ -17,12 +17,12 @@ Flutter • React • HTML • CSS
 **Tools & Platforms**  
 Firebase • MySQL • MongoDB • Git/GitHub  
 Apache Tomcat • Maven • NodeJS  
-Figma • Photoshop • Canva •WordPress •Cisco
+Figma • Photoshop • Canva  
 
 ---
 
 ### 🌐 Connect With Me
-Instagram | Medium | [Quora](https://quora.com/profile/Harini-Dewasurendra) | Email  
+[💼 LinkedIn](https://www.linkedin.com/in/harini-dewasurendra466) • [📸 Instagram](https://www.instagram.com/h.dewz/) • [✉️ Email](mailto:dewasurendraharini08@gmail.com) 
 
 ---
 
